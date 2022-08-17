@@ -2,3 +2,4 @@ hallo pak, nama saya abell dari banjarmasin
 resolusi
 -membuat web menggunakan framework js
 -bekerja di perusahaan startup
+-udin jaya babu saya andi
